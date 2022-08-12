@@ -1,0 +1,8 @@
+string name
+float32 red
+float32 green
+float32 blue
+string color_name
+int32 rgb
+float32 duration
+---

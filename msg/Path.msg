@@ -1,0 +1,9 @@
+string type
+int32 init_dir_x
+int32 init_dir_y
+int32 init_cur
+float32 goal_x
+float32 goal_y
+int32 fin_dir_x
+int32 fin_dir_y
+int32 fin_cur

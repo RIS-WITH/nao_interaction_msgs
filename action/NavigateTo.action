@@ -1,0 +1,7 @@
+geometry_msgs/PoseStamped target_pose
+float32 dist_threshold
+int32 nb_attempts
+---
+geometry_msgs/PoseStamped base_position
+---
+geometry_msgs/PoseStamped base_position

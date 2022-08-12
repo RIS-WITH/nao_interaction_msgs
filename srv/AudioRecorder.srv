@@ -1,0 +1,9 @@
+std_msgs/String file_path
+std_msgs/Int32 secs
+std_msgs/Char audio_ty # 0 for wav, 1 for ogg
+std_msgs/Bool left_channel
+std_msgs/Bool right_channel
+std_msgs/Bool front_channel
+std_msgs/Bool rear_channel
+std_msgs/Int32 samplerate # Typical value is 16000 Hz
+---
