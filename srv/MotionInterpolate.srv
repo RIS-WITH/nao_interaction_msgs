@@ -1,0 +1,4 @@
+string[] names
+Floats32[] angles
+Floats32[] times
+bool is_absolute

@@ -14,6 +14,8 @@ find_package(catkin REQUIRED COMPONENTS
 ## Generate messages in the 'msg' folder
 add_message_files(
   FILES
+  #~ generic
+  Floats32.msg
   #~ nao_vision
   FaceDetected.msg 
   FaceDetectedArray.msg 
@@ -67,6 +69,7 @@ add_service_files(
   SetMoveArmsEnabled.srv
   FollowPath.srv
   String.srv
+  MotionInterpolate.srv
   MotionSetAngles.srv
   Float.srv
   Int.srv
